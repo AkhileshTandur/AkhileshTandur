@@ -1,28 +1,33 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ===================================================== -->
+<!--                  GITHUB PROFILE README                -->
+<!--                      AKHILESH TANDUR                  -->
+<!-- ===================================================== -->
+
+<!-- HEADER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=190&section=header&text=Akhilesh%20Tandur&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20Distributed%20Systems&descAlignY=59&descSize=16" alt="Akhilesh Tandur banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akhilesh%20Tandur&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20Distributed%20Systems&descAlignY=58&descSize=17" width="100%" alt="Akhilesh Tandur"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Building+Scalable+Backend+Systems;Engineering+Real-Time+Data+Pipelines;Exploring+AI+Infrastructure+%26+ML+Systems" alt="Animated engineering introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Building+Scalable+Backend+Systems;Engineering+Real-Time+Data+Pipelines;Exploring+AI+Infrastructure+%26+ML+Systems" alt="Animated introduction"/>
 
 <br/>
 
 **Software Engineer | M.S. Applied Data Intelligence @ SJSU**
 
-Building reliable software, intelligent applications, and data-driven systems.
+Building reliable software, intelligent applications, and scalable data systems.
 
 <br/>
 
 <a href="https://github.com/AkhileshTandur?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 &nbsp;
 <a href="mailto:akhileshtandur@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
 </a>
 
 <br/><br/>
@@ -33,55 +38,72 @@ Building reliable software, intelligent applications, and data-driven systems.
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
+---
 
-<h2>About Me</h2>
+<!-- ABOUT -->
 
-I'm **Akhilesh Tandur**, a Software Engineer and Master's student in **Applied Data Intelligence at San José State University**.
+## About Me
 
-I enjoy building systems that bridge **backend engineering, distributed infrastructure, data processing, and applied AI**. My engineering experience spans backend services, REST and GraphQL APIs, full-stack development, and cloud-native workflows.
+Hi, I'm **Akhilesh Tandur**, a Software Engineer pursuing a **Master of Science in Applied Data Intelligence at San José State University**.
 
-Previously, I worked as a **Software Engineer Intern at Syntar AI** and a **Software Systems Engineer at Maxsys Technology**, contributing to backend development, application integration, and processing systems.
+I build software across **backend engineering, distributed systems, data infrastructure, and applied AI**. I'm particularly interested in designing dependable systems, working with high-volume data, and integrating intelligent capabilities into real applications.
 
-- **Current focus:** Distributed systems, AI infrastructure, and scalable backend development
-- **Interested in:** Software engineering, machine learning engineering, and data engineering
-- **Education:** M.S. Applied Data Intelligence, San José State University
-- **Location:** San Jose, California
+My professional experience includes **Syntar AI** and **Maxsys Technology**, where I contributed to backend services, API development, full-stack applications, and processing systems.
 
-<br/>
-
-<!-- ==================== CURRENT WORK ==================== -->
-
-<h2>What I'm Building</h2>
-
-- **Real-Time Data Platforms:** Streaming ingestion and data-processing systems using Kafka and Spark.
-- **AI-Enabled Applications:** Software infrastructure for integrating intelligent models into applications.
-- **Distributed Backend Systems:** Services, APIs, messaging, and cloud-native deployments.
-- **Analytical Data Pipelines:** Orchestration, transformations, and data warehousing.
+- **Based in:** San Jose, California
+- **Currently exploring:** AI infrastructure, distributed architectures, and cloud-native development
+- **Engineering interests:** Scalable services, real-time data systems, and machine learning applications
+- **Career focus:** New Graduate Software Engineering, AI/ML Engineering, and Data Engineering opportunities
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
+---
 
-<h2>Technical Stack</h2>
+<!-- WHAT I'M BUILDING -->
+
+## What I'm Building
+
+**01. Distributed Backend Systems**
+
+Designing backend services, APIs, event-driven architectures, and cloud-native applications with reliability and maintainability in mind.
+
+**02. Real-Time Data Engineering**
+
+Building streaming workflows that ingest, transform, and analyze data using technologies such as Apache Kafka and Spark.
+
+**03. Applied AI & Machine Learning**
+
+Exploring intelligent applications, model integration, and the engineering infrastructure required to support ML workflows.
+
+**04. Data Platforms & Analytics**
+
+Working on orchestration, warehouse transformations, and analytical pipelines that turn raw data into useful information.
+
+<br/>
+
+---
+
+<!-- TECH STACK -->
+
+## Technical Stack
 
 <div align="center">
 
-<h3>Languages & Frameworks</h3>
+### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,react,nodejs,html,css&theme=dark&perline=9" alt="Programming languages and frameworks"/>
 
 <br/><br/>
 
-<h3>Backend, Data & AI</h3>
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,graphql,pytorch,sklearn,flask,fastapi&theme=dark&perline=8" alt="Backend and data technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,graphql,flask,fastapi&theme=dark&perline=6" alt="Backend and database technologies"/>
 
 <br/><br/>
 
-<h3>Cloud & Developer Tools</h3>
+### AI, ML & Data Engineering
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,linux,vscode&theme=dark&perline=8" alt="Cloud and developer tools"/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ML technologies"/>
 
 <br/><br/>
 
@@ -90,181 +112,180 @@ Previously, I worked as a **Software Engineer Intern at Syntar AI** and a **Soft
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
 
+<br/><br/>
+
+### Cloud & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,vscode&theme=dark&perline=7" alt="Cloud and development tools"/>
+
 </div>
 
 <br/>
 
-<!-- ==================== EXPERIENCE ==================== -->
+---
 
-<h2>Professional Experience</h2>
+<!-- PROFESSIONAL EXPERIENCE -->
 
-<table>
-<tr>
-<th align="left">Organization</th>
-<th align="left">Position</th>
-<th align="left">Period</th>
-</tr>
-<tr>
-<td><b>Syntar AI</b></td>
-<td>Software Engineer Intern</td>
-<td>Feb – Aug 2026</td>
-</tr>
-<tr>
-<td><b>Maxsys Technology</b></td>
-<td>Software Systems Engineer</td>
-<td>Dec 2023 – Dec 2024</td>
-</tr>
-</table>
+## Professional Experience
+
+### Software Engineer Intern
+
+**Syntar AI** · February 2026 – August 2026
+
+Contributed to backend and full-stack development, working on application services, API integrations, and machine learning-related workflows.
+
+- Worked with **Go, TypeScript, React, PostgreSQL, and Redis**.
+- Contributed to backend services and REST/GraphQL API integration.
+- Supported application development using **Docker and Kubernetes**.
 
 <br/>
 
-<!-- ==================== PROJECTS ==================== -->
+### Software Systems Engineer
 
-<h2>Featured Engineering Projects</h2>
+**Maxsys Technology** · December 2023 – December 2024
 
-<table>
-<tr>
+Worked on backend processing systems and service improvements supporting business applications.
 
-<td width="50%" valign="top">
+- Developed and maintained backend functionality using **Python, Java, and SQL**.
+- Contributed to microservice refactoring, testing, and debugging.
+- Supported backend reliability and performance improvements.
 
-<h3 align="center">Real-Time Crypto Market Anomaly Detection</h3>
+<br/>
 
-<p align="center">
-<b>Streaming Analytics & Anomaly Detection</b>
-</p>
+---
 
-<p>
-A streaming data pipeline for processing cryptocurrency market events and identifying unusual market activity.
-</p>
+<!-- FEATURED PROJECTS -->
 
-<p><b>Technologies:</b> Apache Kafka, Spark Structured Streaming, Python</p>
+## Featured Engineering Projects
 
-<p align="center">
+### 01 / Real-Time Crypto Market Anomaly Detection
+
+**Streaming Analytics · Anomaly Detection · Data Engineering**
+
+A real-time data pipeline for processing cryptocurrency market events and identifying unusual activity through streaming analytics.
+
+**Technologies:** Apache Kafka · Spark Structured Streaming · Python
+
 <a href="https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Crypto project repository"/>
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Crypto Market Anomaly Detection"/>
 </a>
-</p>
 
-</td>
+<br/><br/>
 
-<td width="50%" valign="top">
+---
 
-<h3 align="center">Advertising Event Ingestion & Attribution</h3>
+### 02 / Real-Time Advertising Event Ingestion & Attribution
 
-<p align="center">
-<b>Event-Driven Data Engineering</b>
-</p>
+**Event-Driven Architecture · Data Pipelines · Analytics**
 
-<p>
-An event ingestion and processing workflow focused on advertising analytics and click-through attribution.
-</p>
+An event-processing pipeline focused on ingesting advertising events and supporting click-through attribution workflows.
 
-<p><b>Focus:</b> Event Streaming, Data Pipelines, Attribution</p>
+**Focus:** Event Streaming · Data Processing · Attribution
 
-<p align="center">
 <a href="https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Advertising project repository"/>
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Advertising Event Ingestion"/>
 </a>
-</p>
 
-</td>
+<br/><br/>
 
-</tr>
-<tr>
+---
 
-<td width="50%" valign="top">
+### 03 / Distributed Feature Engineering for Ad Ranking
 
-<h3 align="center">Distributed Feature Engineering</h3>
+**Distributed Systems · Feature Pipelines · Data Engineering**
 
-<p align="center">
-<b>Feature Processing for Ad Ranking</b>
-</p>
+A distributed data-processing project focused on preparing, transforming, and organizing features for advertising ranking workflows.
 
-<p>
-A distributed data-processing project focused on preparing features for advertising ranking workflows.
-</p>
+**Focus:** Distributed Processing · Feature Engineering · Data Pipelines
 
-<p><b>Focus:</b> Distributed Processing, Feature Engineering</p>
-
-<p align="center">
 <a href="https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Feature engineering repository"/>
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Distributed Feature Engineering"/>
 </a>
-</p>
 
-</td>
+<br/><br/>
 
-<td width="50%" valign="top">
+---
 
-<h3 align="center">Monetization Data Warehouse</h3>
+### 04 / Monetization Data Warehouse & A/B Testing
 
-<p align="center">
-<b>Analytics & Experimentation</b>
-</p>
+**Data Warehousing · Analytical Modeling · Experimentation**
 
-<p>
-A data-warehouse and analytical modeling project centered on monetization reporting and A/B testing attribution.
-</p>
+A data engineering project centered on analytical data modeling, monetization reporting, and experimentation attribution.
 
-<p><b>Focus:</b> SQL, Warehousing, Experiment Analytics</p>
+**Focus:** SQL · Data Warehousing · Experiment Analytics
 
-<p align="center">
 <a href="https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Monetization project repository"/>
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Monetization Data Warehouse"/>
 </a>
-</p>
 
-</td>
-
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
 <a href="https://github.com/AkhileshTandur?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ==================== GITHUB STATS ==================== -->
+---
 
-<h2>GitHub Analytics</h2>
+<!-- EDUCATION -->
+
+## Education
+
+### San José State University
+
+**Master of Science in Applied Data Intelligence**
+
+San Jose, California
+
+Areas of study include data engineering, machine learning, software systems, and applied artificial intelligence.
+
+<br/>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkhileshTandur&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkhileshTandur&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshTandur&layout=compact&theme=github_dark&hide_border=true" alt="Top programming languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshTandur&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhileshTandur&theme=github-dark&hide_border=true&area=true" alt="GitHub contribution activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhileshTandur&theme=github-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ==================== CONTACT ==================== -->
+---
 
-<h2>Let's Connect</h2>
+<!-- CONTACT -->
+
+## Let's Connect
+
+I'm interested in engineering opportunities involving **software systems, distributed infrastructure, applied AI, and data engineering**.
 
 <div align="center">
 
-**Open to Full-Time Software Engineering, AI/ML Engineering, and Data Engineering Opportunities**
+**Open to Full-Time Software Engineering, AI/ML Engineering & Data Engineering Roles**
 
 <br/>
 
 <a href="mailto:akhileshtandur@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/AkhileshTandur">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -275,8 +296,10 @@ A data-warehouse and analytical modeling project centered on monetization report
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
+<!-- FOOTER -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer wave"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave"/>
+
 </div>
