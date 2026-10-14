@@ -1,69 +1,82 @@
-<div align="center">
+div align="center">
 
-Hi, I'm Akhilesh Tandur 👋
-Software Engineer · Backend & Distributed Systems · Applied AI
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1000&color=2389DA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+scalable+backend+systems;Engineering+real-time+data+pipelines;Exploring+AI+infrastructure+and+ML+systems" alt="Typing SVG with areas of engineering interest" /></a>
+<!-- Identity: concise, editorial, and easy to scan -->
+
+<h1>Akhilesh Tandur</h1>
+
+<strong>Software Engineer · Distributed Systems · Applied AI</strong>
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&duration=3000&pause=1300&color=637DA2&center=true&vCenter=true&repeat=true&width=620&height=32&lines=Building+reliable+software+systems;Engineering+real-time+data+platforms;Turning+applied+AI+into+products" alt="Software engineering focus: reliable systems, real-time data, applied AI" />
+
 <p>
-  <a href="https://github.com/AkhileshTandur?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE-PROJECTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:akhileshtandur@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONNECT_WITH_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AkhileshTandur"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AkhileshTandur?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172B4D?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="mailto:akhileshtandur@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-3D658A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akhilesh" /></a>
 </p>
 
-San José, California · M.S. in Applied Data Intelligence, San José State University
+<sub>San José, California   ·   M.S. Applied Data Intelligence @ San José State University</sub>
 </div>
 
-👋 About Me
-I'm a software engineer pursuing an M.S. in Applied Data Intelligence at San José State University. I build backend services, distributed applications, and data platforms, and I’m especially interested in the engineering behind reliable AI systems.
-At Syntar AI, I worked on backend and full-stack features, API integrations, and ML-related workflows. Previously, at Maxsys Technology, I worked on backend processing systems and service improvements. I enjoy solving problems that sit between software architecture, data engineering, and real-world product requirements.
-- 🔭 Currently exploring: AI infrastructure, distributed systems, backend performance, and production ML workflows
-- ⚙️ Enjoy building: API platforms, event-driven services, and data processing pipelines
-- 🎓 Education: M.S. Applied Data Intelligence · San José State University
-- 💼 Career interests: New-grad software engineering, data engineering, and AI/ML engineering roles
-🚀 What I'm Building
-- ⚡ Streaming systems for ingesting, processing, and analyzing live events
-- 🧠 AI-enabled applications with practical backend and deployment considerations
-- 🏗️ Scalable service architectures using containers, APIs, and messaging
-- 📊 Analytical data platforms with orchestration and warehouse transformations
-🛠️ Technical Stack
-Languages
-    
-Backend & Frontend
-    
-Cloud, Data & Infrastructure
-      
-💼 Featured Projects
-📈 Real-Time Crypto Market Anomaly Detection
-A streaming data engineering project focused on identifying unusual patterns in real-time cryptocurrency market events.
-Stack: Apache Kafka · Spark Structured Streaming · Data Processing
-🎯 Real-Time Advertising Event Ingestion & CTR Attribution
-An event-oriented data pipeline exploring ingestion and attribution workflows for advertising analytics.
-Focus: Event ingestion · Streaming architecture · Attribution
-🧩 Distributed Feature Engineering for Ad Ranking
-A project exploring distributed feature-processing workflows for ranking and analytics systems.
-Focus: Feature engineering · Data pipelines · Distributed processing
-🏢 Monetization Data Warehouse & A/B Testing Attribution
-A data-warehouse and analytical modeling project centered on experimentation and monetization reporting.
-Focus: Data modeling · Warehousing · Experiment analytics
+About
+I am a software engineer focused on the intersection of backend engineering, distributed systems, data platforms, and applied AI. I enjoy building software that is not only functional, but reliable, observable, and designed to operate beyond a prototype.
+My experience spans backend and full-stack engineering at Syntar AI, and processing systems and service improvements at Maxsys Technology. I am currently pursuing my master's in Applied Data Intelligence at San José State University.
+Experience at a glance
+	Role	Focus
+2026	Software Engineer Intern · Syntar AI	Backend services, API integrations, full-stack features, ML workflows
+2023–2024	Software Systems Engineer · Maxsys Technology	Backend processing, service architecture, reliability improvements
+Graduate study	San José State University	M.S. in Applied Data Intelligence
+
+
+Selected engineering work
+<table>
+<tr>
+<td width="50%" valign="top">
+
+01 / Streaming anomaly detection
+Crypto Market Anomaly Detection →
+Event streaming and near-real-time anomaly analysis using Kafka and Spark Structured Streaming.
+</td>
+<td width="50%" valign="top">
+
+02 / Event-driven analytics
+Ad Event Ingestion & Attribution →
+Engineering an advertising-event ingestion and click-through attribution workflow.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+03 / Distributed data systems
+Feature Engineering for Ad Ranking →
+Exploring scalable feature-processing pipelines and data preparation for ranking systems.
+</td>
+<td width="50%" valign="top">
+
+04 / Analytics infrastructure
+Monetization Warehouse & A/B Attribution →
+A data warehousing and experimentation-attribution project focused on analytical modeling.
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/AkhileshTandur?tab=repositories"><strong>View all repositories →</strong></a></p>
+
+Technical toolkit
+Domain	Technologies
+Languages	Python · Go · TypeScript · Java · SQL
+Backend & applications	REST APIs · GraphQL · React · PostgreSQL · Redis
+Distributed systems & cloud	Kafka · Docker · Kubernetes
+Data & ML engineering	Spark · Airflow · Snowflake · dbt · ML pipelines
+
+
+What I care about
+System design — interfaces, services, and data flows that can evolve.
+Performance & reliability — engineering decisions that hold up under real workloads.
+Practical AI — connecting models with robust applications and infrastructure.
 <div align="center">
 
-→ Explore all repositories
-</div>
-
-📊 GitHub Activity
-<div align="center">
-
-<img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AkhileshTandur&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-<img alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshTandur&layout=compact&hide_border=true&theme=transparent" height="165" />
-
-</div>
-
-Stats are generated by a third-party service and may load slowly or be temporarily unavailable. The language chart reflects public repository code, not overall proficiency.
-
-📬 Let's Connect
-I'm interested in building dependable software and learning from teams working on challenging infrastructure, AI, and data problems.
-📧 Email: akhileshtandur@gmail.com
-💻 GitHub: github.com/AkhileshTandur
-<div align="center">
-
-<sub>Thanks for stopping by — feel free to explore the projects and source code.</sub>
+Let's build something useful.
+<a href="mailto:akhileshtandur@gmail.com">Email</a>  ·  <a href="https://github.com/AkhileshTandur?tab=repositories">Projects</a>  ·  <a href="https://github.com/AkhileshTandur">GitHub</a>
+<sub>Open to conversations about software engineering, distributed systems, AI infrastructure, and data engineering.</sub>
 </div>
