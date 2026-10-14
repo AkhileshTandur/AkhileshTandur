@@ -27,8 +27,7 @@
 <a href="https://www.linkedin.com/in/akhilesh-tandur-63817a223/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
 </a>
-
-  &nbsp;
+&nbsp;
   <a href="mailto:akhileshtandur@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
