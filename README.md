@@ -83,117 +83,122 @@ Previously, I worked as a **Software Engineer Intern at Syntar AI** (Feb 2026 �
 
 ---
 
+<!-- PROFESSIONAL EXPERIENCE - NO TABLES -->
+
 ### 💼 Professional Experience
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Software Engineer Intern</h3>
-      <p align="center"><b>Syntar AI</b> · Feb 2026 – Aug 2026</p>
-      <ul>
-        <li>Contributed to backend and full-stack application development, focusing on APIs, application services, and ML-related workflows.</li>
-        <li>Worked on backend services and <b>REST/GraphQL API</b> integrations.</li>
-        <li>Developed application features with <b>Go, TypeScript, and React</b> alongside <b>PostgreSQL, Redis, Docker, and Kubernetes</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Software Systems Engineer</h3>
-      <p align="center"><b>Maxsys Technology</b> · Dec 2023 – Dec 2024</p>
-      <ul>
-        <li>Worked on backend processing systems and architecture improvements to existing production services.</li>
-        <li>Developed and maintained backend components using <b>Python, Java, and SQL</b>.</li>
-        <li>Contributed to microservice refactoring, testing, debugging, and backend performance/reliability improvements.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### Software Engineer Intern
+**Syntar AI** · February 2026 – August 2026
+
+Contributed to backend and full-stack engineering, developing application services, API integrations, and machine learning-related workflows.
+
+- Built and integrated backend services using **REST and GraphQL APIs**.
+- Developed full-stack application features with **Go, TypeScript, and React**.
+- Worked with **PostgreSQL, Redis, Docker, and Kubernetes** to support application development and deployment.
+
+<br/>
+
+#### Software Systems Engineer
+**Maxsys Technology** · December 2023 – December 2024
+
+Worked on backend processing systems and improvements to production services, with an emphasis on reliability, maintainability, and performance.
+
+- Developed and maintained backend components using **Python, Java, and SQL**.
+- Contributed to **microservice refactoring**, automated testing, and debugging.
+- Supported backend performance improvements and system reliability.
 
 ---
 
+<!-- FEATURED PROJECTS - NO TABLES -->
+
 ### 🏆 Featured Engineering Projects
 
-<table width="100%">
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🏅 01 — Gauge: Edge-Native Machine Health Intelligence</h3>
-      <p align="center">
-        <b>Edge AI · Industrial IoT · Audio Anomaly Detection · Privacy-Preserving Local Inference</b>
-      </p>
-      <ul>
-        <li><b>Overview:</b> Developed an edge-focused industrial machine-health monitoring system designed to process machine data locally rather than continuously uploading raw audio.</li>
-        <li><b>Highlights:</b> Privacy-preserving local audio anomaly detection, machine-specific degradation trend analysis, and event-triggered local AI reasoning.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Focus-Edge_AI_%26_IIoT-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Inference-Privacy--Preserving_Local_AI-10B981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 02 — Real-Time Crypto Anomaly Detection</h3>
-      <p align="center">
-        <b>Kafka · Spark Structured Streaming · Data Engineering</b>
-      </p>
-      <ul>
-        <li><b>Overview:</b> Real-time streaming pipeline for ingesting high-frequency cryptocurrency market events and executing live anomaly-detection workflows.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 03 — Real-Time Ad Event & CTR Attribution</h3>
-      <p align="center">
-        <b>Event-Driven Architecture · Data Pipelines · Analytics</b>
-      </p>
-      <ul>
-        <li><b>Overview:</b> Streaming data-processing architecture engineered for high-throughput advertising event ingestion and real-time click-through attribution.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ 04 — Distributed Feature Engineering</h3>
-      <p align="center">
-        <b>Distributed Processing · Feature Engineering · Data Systems</b>
-      </p>
-      <ul>
-        <li><b>Overview:</b> Distributed feature-processing pipeline built to prepare, transform, and serve large-scale data for advertising ranking workflows.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 05 — Monetization Warehouse & A/B Testing</h3>
-      <p align="center">
-        <b>Data Warehousing · SQL · Experimentation Analytics</b>
-      </p>
-      <ul>
-        <li><b>Overview:</b> Analytical data-modeling platform focused on monetization reporting, warehouse transformations, and experimentation attribution.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 01 — Gauge: Edge-Native Machine Health Intelligence
+
+**Edge AI · Industrial IoT · Audio Anomaly Detection**
+
+An edge-native industrial machine-health intelligence system designed to identify abnormal machine sounds while preserving data privacy.
+
+**Engineering Highlights**
+- Privacy-preserving audio anomaly detection with local processing.
+- Machine-specific degradation trend analysis.
+- Event-triggered AI reasoning for machine-health insights.
+
+**Focus:** Edge AI · Local Inference · Industrial Monitoring
+
+---
+
+### 02 — Real-Time Crypto Anomaly Detection
+
+**Kafka · Spark Structured Streaming · Data Engineering**
+
+A real-time streaming pipeline for processing cryptocurrency market events and detecting anomalous activity.
+
+**Engineering Highlights**
+- Real-time market event ingestion.
+- Stream processing with Apache Spark.
+- Anomaly detection on streaming data.
+
+<a href="https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Crypto Anomaly Detection"/>
+</a>
+
+---
+
+### 03 — Real-Time Ad Event & CTR Attribution
+
+**Event-Driven Architecture · Data Pipelines · Analytics**
+
+A streaming data-processing architecture focused on advertising event ingestion and click-through attribution.
+
+**Engineering Highlights**
+- Advertising event ingestion workflows.
+- Event-oriented data processing.
+- Click-through attribution and analytics.
+
+<a href="https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Advertising Pipeline"/>
+</a>
+
+---
+
+### 04 — Distributed Feature Engineering
+
+**Distributed Processing · Feature Engineering · Data Systems**
+
+A distributed feature-processing pipeline for preparing and transforming data used in advertising ranking systems.
+
+**Engineering Highlights**
+- Distributed data transformation workflows.
+- Feature preparation for ranking applications.
+- Data processing and feature-pipeline architecture.
+
+<a href="https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Feature Engineering Project"/>
+</a>
+
+---
+
+### 05 — Monetization Warehouse & A/B Testing
+
+**Data Warehousing · SQL · Experimentation Analytics**
+
+An analytical data-modeling project focused on monetization reporting, warehouse transformations, and A/B testing attribution.
+
+**Engineering Highlights**
+- Analytical data-modeling workflows.
+- Data warehousing and transformations.
+- Experimentation attribution and reporting.
+
+<a href="https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Monetization Warehouse Project"/>
+</a>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/AkhileshTandur?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_All_My_Repositories_→-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
+  <a href="https://github.com/AkhileshTandur?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
   </a>
 </div>
 
