@@ -85,6 +85,8 @@ Previously, I worked as a **Software Engineer Intern at Syntar AI(Start up)** (F
 
 </div>
 
+---
+
 ### 🏆 Featured Engineering Projects
 
 ### 01 — Gauge: Edge-Native Machine Health Intelligence
