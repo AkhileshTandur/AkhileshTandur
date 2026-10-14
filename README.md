@@ -1,78 +1,76 @@
-<!-- Animated Wave Header -->
+<!-- CYBERPUNK GLOWING WAVE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Akhilesh%20Tandur%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,254,142,33,18&height=190&section=header&text=Hi%20there,%20I'm%20Vinuta%20Patil%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20at%20SJSU&descAlignY=62&descSize=16" width="100%" />
 </div>
 
-<!-- Animated Typing Subtitle -->
+<!-- DYNAMIC TYPING NEON SUBTITLE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+AI%2FML+%26+Systems+Architecture;Building+Low-Latency+ML+Inference+%26+Scalable+Microservices;Full-Stack+Developer+%7C+High-Performance+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=MS+in+Software+Engineering+@+SJSU+🎓;Building+Intelligent+Full-Stack+Applications;AI%2FML+%7C+Multi-Agent+Systems+%7C+RAG+Systems;Runner-Up+@+Stanford+LLM+x+Law+Hackathon+🥈" alt="Cyberpunk Subtitle" />
   </a>
 </div>
 
 <br/>
 
-<!-- Quick Action / Social Badges -->
+<!-- GLOWING INTERACTIVE CYBER BUTTONS -->
 <div align="center">
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_MY_WEBSITE-FF4B4B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <a href="https://www.vinutapatil.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_MY_WEBSITE-FF2A85?style=for-the-badge&logoColor=white&labelColor=1a1a24" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://in.linkedin.com/in/vinuta-patil-3a35741a2" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a24" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:akhileshtandur@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:vinutapatil.sjsu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-FF0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a24" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄_RESUME-DOWNLOAD_PDF-8B5CF6?style=for-the-badge&logoColor=white" alt="Resume" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📄_RESUME-DOWNLOAD_PDF-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1a1a24" alt="Resume" />
   </a>
 </div>
 
-<hr/>
+<hr style="border: 1px solid #FF2A85;"/>
 
-### 👋 About Me
+### 🌌 About Me
 
-Glad to see you here! I'm **Akhilesh Tandur**, a **Software Engineer** passionate about building **high-performance AI/ML inference pipelines**, **distributed backend systems**, and **responsive full-stack applications**. With a strong foundation in system architecture, deep learning optimization, and full-stack telemetry, I enjoy tackling bottlenecks from the hardware/kernel level all the way up to the user interface.
+🤖 Glad to see you here! I'm **Vinuta Patil**, a Software Engineer and Master's student at **San Jose State University** with a strong passion for building intelligent full-stack applications powered by AI/ML. I'm honored to be **Runner-up at the LLM x Law Hackathon** held at **Stanford Law School**! With a knack for building RAG systems and scalable microservices, I balance code with exploring new AI technologies and find joy in solving real-world problems through innovation.
 
-Previously, I worked on optimizing low-latency deep learning inference and scalable backend pipelines, reducing model inference latency using **PyTorch, TensorRT, and C++**, and engineering cloud-native workflows with **Kubernetes, Kubeflow, and Docker**. My work spans building real-time telemetry dashboards in **React and TypeScript**, cycle-accurate **processor architecture simulation**, and production-grade **RAG & MLOps pipelines**.
+Previously, I worked as a **Software Engineer Intern at Mimirchat**, building production-grade RAG pipelines with AWS Lambda, Bedrock, and multi-LLM optimization. Before this, I spent over a year at **Win Information Technology** building microservices with Flask, Kafka, and Kubernetes. My notable contributions include developing multimodal RAG chatbots achieving 85%+ accuracy and building the Adalat Tax-Copilot for legal document analysis. I'm actively exploring multi-agent systems, LLM optimization, and AI infrastructure for my graduate research.
 
 ---
 
 ### 🚀 What I'm Building
 
-* ⚡ **Low-Latency ML Inference & MLOps:** Optimizing transformer/BERT architectures with **PyTorch, TensorRT, ONNX, and Nsight Systems** on GPU clusters.
-* 🤖 **GenAI & RAG Pipelines:** Architecting context-aware LLM systems, vector search pipelines, and automated evaluation workflows using **LangChain**.
-* 🌐 **Full-Stack Telemetry & Microservices:** Building real-time monitoring dashboards and REST/gRPC APIs with **React, TypeScript, Node.js, Python, and Go**.
-* 🖥️ **Systems & Architecture:** Designing low-level hardware/software simulations, caching layers, and high-throughput data pipelines.
+* 🤖 **RAG-powered chatbots** with LangChain, FAISS, and AWS Bedrock
+* ⚡ **Scalable microservices** with Node.js, Flask, and Kafka
+* 🌐 **Full-stack web apps** with React.js, TypeScript, and Next.js
+* 🔍 **LLM optimization** systems for accuracy and cost trade-offs
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Cyber-Glow Palette)
 
 <div align="center">
 
-#### Languages & Core Frameworks
+#### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs,nextjs,flask,fastapi,html,css&theme=dark&perline=11" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,express,flask&theme=dark" alt="Languages & Frameworks" />
 </p>
 
-#### AI/ML, Data & Performance
+#### 🧠 AI/ML & Data Ingestion
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,kafka,graphql&theme=dark" alt="AI/ML and Data" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,kafka,graphql&theme=dark" alt="Data & AI" />
   <br/>
-  <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nsight_Systems-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00F0FF?style=for-the-badge&logo=ai&logoColor=black&labelColor=0c0f1d" />
+  <img src="https://img.shields.io/badge/LangChain-FF2A85?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0c0f1d" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0c0f1d" />
 </p>
 
-#### Cloud, DevOps & Systems
+#### ☁️ Cloud, DevOps & Integration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,git,linux,githubactions&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,git,linux,githubactions&theme=dark" alt="Ops" />
 </p>
 
 </div>
@@ -81,68 +79,60 @@ Previously, I worked on optimizing low-latency deep learning inference and scala
 
 ### 💼 Featured Projects
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ High-Performance ML Inference & MLOps</h3>
-      <p align="center">
-        <b>End-to-end Transformer optimization & automated deployment pipeline</b>
-      </p>
+    <td width="50%" valign="top" style="border: 2px solid #FF2A85; padding: 15px; border-radius: 8px; background: #0c0f1d;">
+      <h3 align="center">🤖 AI Customer Support Agent</h3>
+      <p align="center"><b>Multimodal RAG chatbot with 85%+ accuracy</b></p>
       <ul>
-        <li><b>Built with:</b> Python, C++, PyTorch, TensorRT, Kubeflow, AWS (A10G)</li>
-        <li><b>Highlights:</b> Reduced end-to-end inference latency from 42ms to 28.5ms via INT8/FP16 quantization and kernel fusion; profiled GPU bottlenecks with Nsight Systems.</li>
+        <li><b>Built with:</b> Flask, LangChain, FAISS, RabbitMQ</li>
+        <li>Highlights: Text/speech/image support, real-time analytics, cost trade-off optimization.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangChain-FF2A85?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Real-Time System Telemetry Platform</h3>
-      <p align="center">
-        <b>Full-stack observability dashboard & high-throughput ingestion backend</b>
-      </p>
+    <td width="50%" valign="top" style="border: 2px solid #00F0FF; padding: 15px; border-radius: 8px; background: #0c0f1d;">
+      <h3 align="center">⚖️ Adalat Tax-Copilot</h3>
+      <p align="center"><b>Stanford Hackathon Project - Legal AI Analyzer</b></p>
       <ul>
-        <li><b>Built with:</b> React.js, TypeScript, Python, REST APIs, Docker</li>
-        <li><b>Highlights:</b> Engineered live metric streaming, automated unit/functional test suites, and interactive performance visualization for distributed services.</li>
+        <li><b>Built with:</b> Next.js, Node.js, FAISS</li>
+        <li>Highlights: Parsed 25+ court judgments with 85% expert alignment. Runner-up at LLM x Law.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-00F0FF?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ Cycle-Accurate Processor Simulator</h3>
-      <p align="center">
-        <b>Out-of-order instruction pipeline & memory hierarchy modeling</b>
-      </p>
+    <td width="50%" valign="top" style="border: 2px solid #00F0FF; padding: 15px; border-radius: 8px; background: #0c0f1d;">
+      <h3 align="center">🍽️ Restaurant Finding System</h3>
+      <p align="center"><b>Full-stack Platform with Google Maps</b></p>
       <ul>
-        <li><b>Built with:</b> C++, Python, Linux, Automated Benchmarking</li>
-        <li><b>Highlights:</b> Implemented branch prediction, register renaming, and multi-level cache coherence protocols with comprehensive verification testbenches.</li>
+        <li><b>Built with:</b> React.js, Node.js, MongoDB, AWS</li>
+        <li>Highlights: Features JWT authentication and elastic load balancing.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Architecture-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Enterprise RAG & AI Evaluation Engine</h3>
-      <p align="center">
-        <b>Context-aware document retrieval & multi-LLM orchestration</b>
-      </p>
+    <td width="50%" valign="top" style="border: 2px solid #FF2A85; padding: 15px; border-radius: 8px; background: #0c0f1d;">
+      <h3 align="center">📚 Learning Management System</h3>
+      <p align="center"><b>Interactive E-Learning Platform</b></p>
       <ul>
-        <li><b>Built with:</b> Python, LangChain, Vector DBs, FastAPI</li>
-        <li><b>Highlights:</b> Designed semantic chunking, hybrid retrieval, and automated hallucination/latency benchmarking across multiple foundational models.</li>
+        <li><b>Built with:</b> React.js, Node.js, AWS EC2</li>
+        <li>Highlights: Optimized CI/CD pipeline leading to 30% faster load times.</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -150,22 +140,34 @@ Previously, I worked on optimizing low-latency deep learning inference and scala
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 Cybernetic Dashboard & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vinuta-patil&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D15" alt="Vinuta Patil Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuta-patil&layout=compact&langs_count=8&theme=cyberpunk&hide_border=true&bg_color=0D0D15" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinuta-patil&theme=cyberpunk&hide_border=true&background=0D0D15" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Animated Contribution Graph -->
+<!-- ANIMATED NEON CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuta-patil&bg_color=0D0D15&color=00F0FF&line=FF2A85&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Continuous Integration & Activity Track" />
+</div>
+
+---
+
+### 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🥈_Runner--up-LLM_x_Law_Hackathon_@_Stanford_Law_School_(2024)-FF2A85?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏅_Elite+_Silver-Internet_of_Things-00F0FF?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏅_Elite_Cert-Cloud_Computing_NPTEL-8B5CF6?style=flat-square" />
 </div>
 
 ---
@@ -173,19 +175,21 @@ Previously, I worked on optimizing low-latency deep learning inference and scala
 ### 📫 Let's Connect!
 
 <div align="center">
-  <p>💼 <b>Open to Full-Time Software Engineering, Systems & AI/ML Roles</b></p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <p>💼 <b>Open to Full-Time Software Engineering & AI/ML Roles | 🎓 Graduating May 2026</b></p>
+  <a href="https://in.linkedin.com/in/vinuta-patil-3a35741a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:akhileshtandur@gmail.com">
+  &nbsp;
+  <a href="mailto:vinutapatil.sjsu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  &nbsp;
+  <a href="https://github.com/vinuta-patil" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<!-- Animated Wave Footer -->
+<!-- PULSING WAVE FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,254,142,33,18&height=100&section=footer" width="100%" />
 </div>
