@@ -85,34 +85,6 @@ Previously, I worked as a **Software Engineer Intern at Syntar AI(Start up)** (F
 
 </div>
 
----
-
-### 💼 Professional Experience
-
-#### Software Engineer Intern
-
-**Syntar AI** · February 2026 – August 2026
-
-Contributed to backend and full-stack engineering, developing application services, API integrations, and machine learning-related workflows.
-
-- Built and integrated backend services using **REST and GraphQL APIs**.
-- Developed full-stack application features with **Go, TypeScript, and React**.
-- Worked with **PostgreSQL, Redis, Docker, and Kubernetes** to support application development and deployment.
-
-<br/>
-
-#### Software Systems Engineer
-
-**Maxsys Technology** · December 2023 – December 2024
-
-Worked on backend processing systems and improvements to production services, with an emphasis on reliability, maintainability, and performance.
-
-- Developed and maintained backend components using **Python, Java, and SQL**.
-- Contributed to **microservice refactoring**, automated testing, and debugging.
-- Supported backend performance improvements and system reliability.
-
----
-
 ### 🏆 Featured Engineering Projects
 
 ### 01 — Gauge: Edge-Native Machine Health Intelligence
