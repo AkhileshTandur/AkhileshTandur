@@ -42,7 +42,7 @@
 
 Glad to see you here! I'm **Akhilesh Tandur**, a **Software Engineer** pursuing a **Master of Science in Applied Data Intelligence at San José State University**. I work across **backend engineering, distributed systems, data infrastructure, and applied AI**, designing software that is reliable, scalable, and useful beyond a prototype.
 
-Previously, I worked as a **Software Engineer Intern at Syntar AI** (Feb 2026 – Aug 2026), building backend services, REST/GraphQL API integrations, and full-stack features with **Go, TypeScript, React, PostgreSQL, Redis, Docker, and Kubernetes**. Before this, I was a **Software Systems Engineer at Maxsys Technology** (Dec 2023 – Dec 2024), developing backend processing systems, refactoring microservices, and improving system reliability using **Python, Java, and SQL**.
+Previously, I worked as a **Software Engineer Intern at Syntar AI(Start up)** (Feb 2026 – Aug 2026), building backend services, REST/GraphQL API integrations, and full-stack features with **Go, TypeScript, React, PostgreSQL, Redis, Docker, and Kubernetes**. Before this, I was a **Software Systems Engineer at Maxsys Technology** (Dec 2023 – Dec 2024), developing backend processing systems, refactoring microservices, and improving system reliability using **Python, Java, and SQL**.
 
 ---
 
