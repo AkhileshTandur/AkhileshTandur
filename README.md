@@ -220,28 +220,37 @@ An analytical data-modeling project focused on monetization reporting, warehouse
 
 ---
 
-### 📫 Let's Connect!
+
+<!-- LET'S CONNECT -->
+
+<h3>📫 Let's Connect!</h3>
 
 <div align="center">
 
-  <p>💼 <b>Open to Full-Time Software Engineering, AI/ML Engineering & Data Engineering Roles</b></p>
+  <p>
+    <b>💼 Open to Full-Time Software Engineering, AI/ML Engineering & Data Engineering Roles</b>
+  </p>
 
-  <p><i>Building reliable systems. Exploring intelligent technologies.</i></p>
+  <p>
+    <i>Building reliable systems. Exploring intelligent technologies.</i>
+  </p>
 
-  
-<a href="https://www.linkedin.com/in/akhilesh-tandur-63817a223/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
-</a>
-&nbsp;
-  <a href="mailto:akhileshtandur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AkhileshTandur">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/akhilesh-tandur-63817a223/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:akhileshtandur@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/AkhileshTandur">
+      <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
+
 
 ---
 
