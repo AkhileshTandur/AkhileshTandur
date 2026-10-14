@@ -1,37 +1,42 @@
-<div align="center">
+div align="center">
 
 Hi there, I'm Akhilesh Tandur 👋
-Software Engineer · AI & Data Systems · M.S. Applied Data Intelligence @ SJSU
-Building reliable backend services, intelligent applications, and scalable data systems.
+Software Engineer · AI & Data Systems
+M.S. in Applied Data Intelligence @ San José State University 🎓
+Building intelligent applications, reliable backend services, and scalable data platforms.
+
 
 
 
 </div>
 
 👋 About Me
-I'm a software engineer and master's student in Applied Data Intelligence at San José State University. I enjoy building end-to-end systems—from APIs and distributed services to machine-learning workflows and data pipelines.
-- 💻 Software Engineer Intern, Syntar AI (2026): Worked on backend services, APIs, full-stack features, and ML-related workflows.
-- 🏢 Software Systems Engineer, Maxsys Technology (2023–2024): Worked on backend processing systems and service improvements.
-- 🎓 Graduate Student, San José State University: M.S. Applied Data Intelligence.
-- 🔎 Interests: Software engineering, AI infrastructure, distributed systems, and data engineering.
+I'm Akhilesh Tandur, a software engineer and master's student at San José State University. I'm interested in building intelligent, production-minded systems—from APIs and distributed backend services to machine-learning workflows and real-time data pipelines.
+Previously, I worked as a Software Engineer Intern at Syntar AI, contributing to backend services, APIs, full-stack development, and ML-related workflows. Before that, I worked as a Software Systems Engineer at Maxsys Technology, focusing on backend processing systems and service improvements.
+- 🎓 Education: M.S. in Applied Data Intelligence, San José State University
+- 💻 Engineering interests: Backend engineering, AI infrastructure, distributed systems, and data engineering
+- 🚀 Currently: Building and exploring projects involving streaming data, AI applications, and scalable platforms
 🛠️ Technical Skills
-Languages: Python · Go · TypeScript · Java · SQL
-Backend & Web: REST APIs · GraphQL · React · PostgreSQL · Redis
-Cloud & Systems: Docker · Kubernetes · Kafka
-Data & ML: Snowflake · Apache Airflow · dbt · ML pipelines
+Languages
+    
+Backend & Cloud
+     
+Data & AI
+    
 🚀 Featured Projects
-🎧 Gauge — Privacy-Preserving Industrial Audio Intelligence
-An edge-oriented approach to detecting anomalous machine sounds, tracking machine-specific changes, and enabling event-triggered local reasoning without uploading raw audio.
-☁️ Cloud-Native Microservices
-Backend services and asynchronous communication patterns using containerized infrastructure and messaging systems.
-📈 Stock Analytics Data Pipeline
-An analytics workflow using Snowflake, Airflow, and dbt to transform stock data and calculate indicators such as moving averages and RSI.
-Add repository links, architecture diagrams, and verified results to each project as they become available.
+Project	What it explores
+Real-Time Crypto Market Anomaly Detection	Streaming anomaly detection using Kafka and Spark Structured Streaming
+Real-Time Advertising Event Ingestion	Event ingestion and click-through rate attribution
+Distributed Feature Engineering for Ad Ranking	Distributed feature processing for ranking workflows
+Monetization Data Warehouse & A/B Attribution	Data warehousing, experimentation, and attribution modeling
+Omnimind	AI application development
 
-🤝 Connect
-- 📧 Email: akhileshtandur@gmail.com
-- 💼 LinkedIn: Add your profile URL
-- 🌐 Portfolio: Coming soon
+
+🤝 Let's Connect
+Have an interesting engineering problem or opportunity to discuss? Feel free to reach out.
+📧 Email: akhileshtandur@gmail.com
+💻 GitHub: github.com/AkhileshTandur
 <div align="center">
-  <sub>Thanks for visiting! Explore my repositories to see what I'm building.</sub>
+
+<sub>Thanks for visiting my GitHub profile. Explore the repositories above to see the work behind the projects.</sub>
 </div>
