@@ -1,82 +1,83 @@
-div align="center">
+<div align="center">
 
-<!-- Identity: concise, editorial, and easy to scan -->
-
-<h1>Akhilesh Tandur</h1>
-
-<strong>Software Engineer · Distributed Systems · Applied AI</strong>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&duration=3000&pause=1300&color=637DA2&center=true&vCenter=true&repeat=true&width=620&height=32&lines=Building+reliable+software+systems;Engineering+real-time+data+platforms;Turning+applied+AI+into+products" alt="Software engineering focus: reliable systems, real-time data, applied AI" />
-
+<sub>SOFTWARE ENGINEERING   /   APPLIED AI   /   DATA SYSTEMS</sub>
+Akhilesh Tandur
+Building useful things. Engineering them to last.
+Software Engineer  ·  M.S. Applied Data Intelligence at San José State University
 <p>
-  <a href="https://github.com/AkhileshTandur?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-172B4D?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="mailto:akhileshtandur@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-3D658A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akhilesh" /></a>
+  <a href="https://github.com/AkhileshTandur?tab=repositories"><img src="https://img.shields.io/badge/Explore_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="mailto:akhileshtandur@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </p>
 
-<sub>San José, California   ·   M.S. Applied Data Intelligence @ San José State University</sub>
+<sub>SAN JOSÉ, CALIFORNIA   ·   OPEN TO NEW-GRAD ENGINEERING OPPORTUNITIES</sub>
 </div>
 
-About
-I am a software engineer focused on the intersection of backend engineering, distributed systems, data platforms, and applied AI. I enjoy building software that is not only functional, but reliable, observable, and designed to operate beyond a prototype.
-My experience spans backend and full-stack engineering at Syntar AI, and processing systems and service improvements at Maxsys Technology. I am currently pursuing my master's in Applied Data Intelligence at San José State University.
-Experience at a glance
-	Role	Focus
-2026	Software Engineer Intern · Syntar AI	Backend services, API integrations, full-stack features, ML workflows
-2023–2024	Software Systems Engineer · Maxsys Technology	Backend processing, service architecture, reliability improvements
-Graduate study	San José State University	M.S. in Applied Data Intelligence
 
+01 / About
+I build software across backend systems, data infrastructure, and applied machine learning. I'm interested in what makes a system work beyond the demo: well-defined interfaces, reliable processing, and thoughtful engineering trade-offs.
+I'm pursuing an M.S. in Applied Data Intelligence at San José State University, building on software engineering experience at Syntar AI and Maxsys Technology.
 
-Selected engineering work
+02 / Selected work
 <table>
 <tr>
 <td width="50%" valign="top">
-
-01 / Streaming anomaly detection
-Crypto Market Anomaly Detection →
-Event streaming and near-real-time anomaly analysis using Kafka and Spark Structured Streaming.
+  <sub>01 / STREAMING SYSTEMS</sub>
+  <h3><a href="https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming">Crypto Market Anomaly Detection ↗</a></h3>
+  <p>A real-time market-event pipeline focused on detecting unusual patterns in streaming data.</p>
+  <sub><b>Kafka</b> · <b>Spark Structured Streaming</b></sub>
 </td>
 <td width="50%" valign="top">
-
-02 / Event-driven analytics
-Ad Event Ingestion & Attribution →
-Engineering an advertising-event ingestion and click-through attribution workflow.
+  <sub>02 / EVENT-DRIVEN DATA</sub>
+  <h3><a href="https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline">Advertising Event Attribution ↗</a></h3>
+  <p>Event ingestion and click-through attribution workflows for advertising analytics.</p>
+  <sub><b>Event Ingestion</b> · <b>Attribution</b></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-03 / Distributed data systems
-Feature Engineering for Ad Ranking →
-Exploring scalable feature-processing pipelines and data preparation for ranking systems.
+  <sub>03 / FEATURE ENGINEERING</sub>
+  <h3><a href="https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking">Distributed Feature Pipeline ↗</a></h3>
+  <p>Feature-processing workflows for data-driven advertising ranking.</p>
+  <sub><b>Distributed Processing</b> · <b>Feature Pipelines</b></sub>
 </td>
 <td width="50%" valign="top">
-
-04 / Analytics infrastructure
-Monetization Warehouse & A/B Attribution →
-A data warehousing and experimentation-attribution project focused on analytical modeling.
+  <sub>04 / ANALYTICS INFRASTRUCTURE</sub>
+  <h3><a href="https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model">Monetization Data Warehouse ↗</a></h3>
+  <p>Analytics warehousing and attribution modeling for monetization and experimentation.</p>
+  <sub><b>Data Modeling</b> · <b>A/B Testing</b></sub>
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://github.com/AkhileshTandur?tab=repositories"><strong>View all repositories →</strong></a></p>
+<p align="right"><a href="https://github.com/AkhileshTandur?tab=repositories"><b>View all repositories →</b></a></p>
 
-Technical toolkit
-Domain	Technologies
+
+03 / Experience
+Period	Role	Engineering focus
+2026	Software Engineer Intern · Syntar AI	Backend APIs, full-stack features, ML-integrated workflows
+2023–2024	Software Systems Engineer · Maxsys Technology	Backend processing and service reliability
+Graduate study	San José State University	M.S. Applied Data Intelligence
+
+
+
+04 / Toolkit
+Discipline	Technologies
 Languages	Python · Go · TypeScript · Java · SQL
-Backend & applications	REST APIs · GraphQL · React · PostgreSQL · Redis
-Distributed systems & cloud	Kafka · Docker · Kubernetes
-Data & ML engineering	Spark · Airflow · Snowflake · dbt · ML pipelines
+Backend & Web	REST · GraphQL · React · PostgreSQL · Redis
+Cloud & Infrastructure	Docker · Kubernetes · Kafka
+Data & ML	Spark · Snowflake · Airflow · dbt · ML workflows
 
 
-What I care about
-System design — interfaces, services, and data flows that can evolve.
-Performance & reliability — engineering decisions that hold up under real workloads.
-Practical AI — connecting models with robust applications and infrastructure.
+
+05 / Current interests
+AI infrastructure — building dependable systems around models, not just demos.
+Distributed software — robust service boundaries, data movement, and operational design.
+Data platforms — making streaming and batch processing useful at scale.
+
 <div align="center">
 
-Let's build something useful.
-<a href="mailto:akhileshtandur@gmail.com">Email</a>  ·  <a href="https://github.com/AkhileshTandur?tab=repositories">Projects</a>  ·  <a href="https://github.com/AkhileshTandur">GitHub</a>
-<sub>Open to conversations about software engineering, distributed systems, AI infrastructure, and data engineering.</sub>
+Let's build something worthwhile.
+Interested in software engineering, AI infrastructure, and data engineering.
+<a href="mailto:akhileshtandur@gmail.com"><b>akhileshtandur@gmail.com</b></a>   ·   <a href="https://github.com/AkhileshTandur?tab=repositories"><b>Explore GitHub</b></a>
+<sub>Designed for clarity. Built around real work.</sub>
 </div>
