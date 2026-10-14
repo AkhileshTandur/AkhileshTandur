@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-VIEW_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/akhileshtandur">
+  <a [href="https://linkedin.com/in/akhileshtandur](https://www.linkedin.com/in/akhilesh-tandur-63817a223/?isSelfProfile=true)">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
