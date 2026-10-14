@@ -1,42 +1,69 @@
-div align="center">
+<div align="center">
 
-Hi there, I'm Akhilesh Tandur 👋
-Software Engineer · AI & Data Systems
-M.S. in Applied Data Intelligence @ San José State University 🎓
-Building intelligent applications, reliable backend services, and scalable data platforms.
+Hi, I'm Akhilesh Tandur 👋
+Software Engineer · Backend & Distributed Systems · Applied AI
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3300&pause=1000&color=2389DA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+scalable+backend+systems;Engineering+real-time+data+pipelines;Exploring+AI+infrastructure+and+ML+systems" alt="Typing SVG with areas of engineering interest" /></a>
+<p>
+  <a href="https://github.com/AkhileshTandur?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE-PROJECTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:akhileshtandur@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONNECT_WITH_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AkhileshTandur"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-
-
-
+San José, California · M.S. in Applied Data Intelligence, San José State University
 </div>
 
 👋 About Me
-I'm Akhilesh Tandur, a software engineer and master's student at San José State University. I'm interested in building intelligent, production-minded systems—from APIs and distributed backend services to machine-learning workflows and real-time data pipelines.
-Previously, I worked as a Software Engineer Intern at Syntar AI, contributing to backend services, APIs, full-stack development, and ML-related workflows. Before that, I worked as a Software Systems Engineer at Maxsys Technology, focusing on backend processing systems and service improvements.
-- 🎓 Education: M.S. in Applied Data Intelligence, San José State University
-- 💻 Engineering interests: Backend engineering, AI infrastructure, distributed systems, and data engineering
-- 🚀 Currently: Building and exploring projects involving streaming data, AI applications, and scalable platforms
-🛠️ Technical Skills
+I'm a software engineer pursuing an M.S. in Applied Data Intelligence at San José State University. I build backend services, distributed applications, and data platforms, and I’m especially interested in the engineering behind reliable AI systems.
+At Syntar AI, I worked on backend and full-stack features, API integrations, and ML-related workflows. Previously, at Maxsys Technology, I worked on backend processing systems and service improvements. I enjoy solving problems that sit between software architecture, data engineering, and real-world product requirements.
+- 🔭 Currently exploring: AI infrastructure, distributed systems, backend performance, and production ML workflows
+- ⚙️ Enjoy building: API platforms, event-driven services, and data processing pipelines
+- 🎓 Education: M.S. Applied Data Intelligence · San José State University
+- 💼 Career interests: New-grad software engineering, data engineering, and AI/ML engineering roles
+🚀 What I'm Building
+- ⚡ Streaming systems for ingesting, processing, and analyzing live events
+- 🧠 AI-enabled applications with practical backend and deployment considerations
+- 🏗️ Scalable service architectures using containers, APIs, and messaging
+- 📊 Analytical data platforms with orchestration and warehouse transformations
+🛠️ Technical Stack
 Languages
     
-Backend & Cloud
-     
-Data & AI
+Backend & Frontend
     
-🚀 Featured Projects
-Project	What it explores
-Real-Time Crypto Market Anomaly Detection	Streaming anomaly detection using Kafka and Spark Structured Streaming
-Real-Time Advertising Event Ingestion	Event ingestion and click-through rate attribution
-Distributed Feature Engineering for Ad Ranking	Distributed feature processing for ranking workflows
-Monetization Data Warehouse & A/B Attribution	Data warehousing, experimentation, and attribution modeling
-Omnimind	AI application development
+Cloud, Data & Infrastructure
+      
+💼 Featured Projects
+📈 Real-Time Crypto Market Anomaly Detection
+A streaming data engineering project focused on identifying unusual patterns in real-time cryptocurrency market events.
+Stack: Apache Kafka · Spark Structured Streaming · Data Processing
+🎯 Real-Time Advertising Event Ingestion & CTR Attribution
+An event-oriented data pipeline exploring ingestion and attribution workflows for advertising analytics.
+Focus: Event ingestion · Streaming architecture · Attribution
+🧩 Distributed Feature Engineering for Ad Ranking
+A project exploring distributed feature-processing workflows for ranking and analytics systems.
+Focus: Feature engineering · Data pipelines · Distributed processing
+🏢 Monetization Data Warehouse & A/B Testing Attribution
+A data-warehouse and analytical modeling project centered on experimentation and monetization reporting.
+Focus: Data modeling · Warehousing · Experiment analytics
+<div align="center">
 
+→ Explore all repositories
+</div>
 
-🤝 Let's Connect
-Have an interesting engineering problem or opportunity to discuss? Feel free to reach out.
+📊 GitHub Activity
+<div align="center">
+
+<img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AkhileshTandur&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
+<img alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshTandur&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+Stats are generated by a third-party service and may load slowly or be temporarily unavailable. The language chart reflects public repository code, not overall proficiency.
+
+📬 Let's Connect
+I'm interested in building dependable software and learning from teams working on challenging infrastructure, AI, and data problems.
 📧 Email: akhileshtandur@gmail.com
 💻 GitHub: github.com/AkhileshTandur
 <div align="center">
 
-<sub>Thanks for visiting my GitHub profile. Explore the repositories above to see the work behind the projects.</sub>
+<sub>Thanks for stopping by — feel free to explore the projects and source code.</sub>
 </div>
