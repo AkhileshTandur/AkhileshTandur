@@ -1,157 +1,87 @@
 
 <div align="center">
 
-# Akhilesh Tandur
+<h1>Akhilesh Tandur</h1>
 
-### Software Engineer | AI/ML | Distributed Systems
+<p><strong>Software Engineer · Backend Systems · Applied AI</strong></p>
+<p>M.S. Applied Data Intelligence · San José State University</p>
 
-**M.S. Applied Data Intelligence @ San José State University**
+<p>Designing dependable software, scalable data systems, and intelligent applications.</p>
 
-Building intelligent applications, reliable backend systems, and scalable data platforms.
-
-[![Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhileshTandur?tab=repositories)
-[![Email](https://img.shields.io/badge/GET_IN_TOUCH-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshtandur@gmail.com)
-
-**San Jose, California | Open to New Graduate Software Engineering Opportunities**
+<a href="https://github.com/AkhileshTandur?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-171717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
+<a href="mailto:akhileshtandur@gmail.com"><img src="https://img.shields.io/badge/Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm **Akhilesh Tandur**, a Software Engineer pursuing a Master's degree in **Applied Data Intelligence at San José State University**.
+I'm a software engineer pursuing a master's degree in **Applied Data Intelligence at San José State University**. I work across backend development, data engineering, and applied AI, with an interest in designing systems that are reliable, maintainable, and useful in production.
 
-I enjoy engineering systems that solve real problems, from backend services and distributed architectures to machine learning workflows and real-time data pipelines.
+My engineering experience includes **Syntar AI** and **Maxsys Technology**, where I contributed to APIs, backend services, and data-processing applications.
 
-My experience includes software engineering at **Syntar AI** and **Maxsys Technology**, where I worked on backend services, API development, full-stack applications, and processing systems.
+**Current focus:** Distributed systems · AI infrastructure · Streaming data platforms
 
-My current interests include:
+## Experience
 
-- **Software Engineering** — Scalable backend services and reliable APIs
-- **AI/ML Engineering** — Model integration and intelligent applications
-- **Distributed Systems** — Event-driven architecture and cloud infrastructure
-- **Data Engineering** — Real-time streaming, orchestration, and analytics
+| Organization | Role | Period |
+| --- | --- | --- |
+| **Syntar AI** | Software Engineer Intern | Feb – Aug 2026 |
+| **Maxsys Technology** | Software Systems Engineer | Dec 2023 – Dec 2024 |
+| **San José State University** | M.S. Applied Data Intelligence | Graduate Studies |
 
----
+## Selected Projects
 
-## Professional Experience
+### 01 — Real-Time Crypto Market Anomaly Detection
+**Kafka · Spark Structured Streaming · Data Processing**
 
-### Software Engineer Intern | Syntar AI
-**February 2026 – August 2026**
+Streaming pipeline for processing cryptocurrency market events and exploring anomaly-detection workflows.
 
-- Worked on backend services and application features using Go, TypeScript, and React.
-- Contributed to REST and GraphQL API development and integration.
-- Worked with PostgreSQL, Redis, Docker, and Kubernetes.
-- Supported workflows connecting software applications with ML capabilities.
+[Explore the repository →](https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming)
 
-### Software Systems Engineer | Maxsys Technology
-**December 2023 – December 2024**
+### 02 — Advertising Event Ingestion & Attribution
+**Event Streaming · Data Engineering · Analytics**
 
-- Worked on backend processing systems using Python, Java, and SQL.
-- Contributed to service improvements, debugging, and system reliability.
-- Supported the development and maintenance of scalable backend applications.
+Event-processing pipeline focused on advertising ingestion and click-through attribution.
 
----
+[Explore the repository →](https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline)
 
-## Featured Engineering Projects
+### 03 — Distributed Feature Engineering for Ad Ranking
+**Distributed Processing · Feature Engineering**
 
-### 01. Real-Time Crypto Market Anomaly Detection
+Feature-processing workflows for data-driven advertising and ranking systems.
 
-**Apache Kafka | Spark Structured Streaming | Data Engineering**
+[Explore the repository →](https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking)
 
-A real-time data processing pipeline designed to analyze streaming cryptocurrency market activity and identify unusual behavioral patterns.
+### 04 — Monetization Data Warehouse & Experimentation
+**Data Modeling · Warehousing · A/B Testing**
 
-[View Repository →](https://github.com/AkhileshTandur/Real-Time-Crypto-Market-Anomaly-Detection-Pipeline-using-Kafka-and-Spark-Structured-Streaming)
+Analytics data modeling for monetization reporting and experimentation attribution.
 
----
+[Explore the repository →](https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model)
 
-### 02. Real-Time Advertising Event Ingestion & Attribution
-
-**Event Streaming | Data Pipelines | Analytics**
-
-An event-driven data engineering project focused on processing advertising events and supporting click-through attribution workflows.
-
-[View Repository →](https://github.com/AkhileshTandur/Real-Time-Advertising-Event-Ingestion-and-Click-Through-Rate-Attribution-Pipeline)
-
----
-
-### 03. Distributed Feature Engineering for Ad Ranking
-
-**Distributed Processing | Feature Engineering | Data Systems**
-
-A distributed feature-processing project designed around preparing and transforming data for advertising ranking workflows.
-
-[View Repository →](https://github.com/AkhileshTandur/Distributed-Feature-Engineering-Pipeline-for-Ad-Ranking)
-
----
-
-### 04. Monetization Data Warehouse & A/B Testing
-
-**Data Warehousing | SQL | Experimentation Analytics**
-
-An analytics data warehouse project focused on monetization reporting, data modeling, and experimentation attribution.
-
-[View Repository →](https://github.com/AkhileshTandur/Large-Scale-Monetization-Data-Warehouse-and-A-B-Testing-Attribution-Model)
-
----
-
-<div align="center">
-
-### [Explore All My Projects →](https://github.com/AkhileshTandur?tab=repositories)
-
-</div>
-
----
+**[View all repositories →](https://github.com/AkhileshTandur?tab=repositories)**
 
 ## Technical Expertise
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming** | Python, Go, Java, TypeScript, SQL |
+| Area | Tools & Technologies |
+| --- | --- |
+| **Languages** | Python, Go, TypeScript, Java, SQL |
 | **Backend** | REST APIs, GraphQL, PostgreSQL, Redis |
-| **Frontend** | React, JavaScript, HTML, CSS |
-| **Cloud & Infrastructure** | Docker, Kubernetes, Kafka |
-| **Data Engineering** | Apache Spark, Snowflake, Apache Airflow, dbt |
-| **AI/ML** | Machine Learning, Model Integration, Data Processing |
-| **Developer Tools** | Git, GitHub, Linux |
+| **Frontend** | React |
+| **Infrastructure** | Docker, Kubernetes, Kafka |
+| **Data Engineering** | Apache Spark, Snowflake, Airflow, dbt |
+| **AI / ML** | Model Integration, ML Pipelines |
 
----
+## Connect
 
-## Education
+I'm interested in opportunities to work on challenging software engineering, distributed systems, and applied AI problems.
 
-**San José State University**
-
-Master of Science in Applied Data Intelligence
-
-San Jose, California
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkhileshTandur&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
-## Let's Connect
-
-I'm interested in building reliable software, exploring AI infrastructure, and working on challenging engineering problems.
-
-- **Email:** [akhileshtandur@gmail.com](mailto:akhileshtandur@gmail.com)
-- **GitHub:** [github.com/AkhileshTandur](https://github.com/AkhileshTandur)
-- **Location:** San Jose, California
+**[Email](mailto:akhileshtandur@gmail.com)** · **[GitHub](https://github.com/AkhileshTandur)**
 
 ---
 
 <div align="center">
-
-**Building systems that are practical, scalable, and engineered to last.**
-
-<sub>Thanks for visiting my GitHub profile.</sub>
-
+<sub>Thoughtfully designed. Built around real engineering work.</sub>
 </div>
